@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\sharp\sharp\bin\Debug\sharp.exe.config
+C:\Users\user\source\repos\sharp\sharp\bin\Debug\sharp.exe
+C:\Users\user\source\repos\sharp\sharp\bin\Debug\sharp.pdb
+C:\Users\user\source\repos\sharp\sharp\obj\Debug\sharp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\sharp\sharp\obj\Debug\sharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sharp\sharp\obj\Debug\sharp.exe
+C:\Users\user\source\repos\sharp\sharp\obj\Debug\sharp.pdb
